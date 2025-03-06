@@ -100,9 +100,9 @@
 
 - 메인, 공모전, 회원 등 모든 페이지 퍼플리싱
 
-- Modal , Swal , DaumPostcode , Slider - 리액트 라이브러리 커스터마이징
+- Modal , Swal , DaumPostcode , Slider - 리액트 라이브러리들을 구글링하여 프로젝트에 맞게 CSS와 JS 커스터마이징
 
-- WebSocket을 이용한 양방향 통신
+- WebSocket을 이용한 양방향 통신 - 웹소켓 객체를 만들고 onopen, onmessage 메서드들을 사용하여 서버와 양방향 통신을 이루어냄
 
 ## 🚩 트러블 슈팅
 
